@@ -1,14 +1,23 @@
 # Cybersecurity Learning Portfolio
 
 Repositorio personal donde documento mi proceso de aprendizaje en ciberseguridad,
-principalmente a través de TryHackMe.
+con foco en fundamentos y seguridad defensiva.
 
-## Contenido actual
-- Writeups del path Pre Security
+## 🎯 Objetivo profesional
+Prepararme para una práctica profesional y un rol junior en ciberseguridad,
+especialmente en áreas como SOC o análisis de seguridad.
 
-## Objetivo
-Construir una base sólida para una práctica profesional en ciberseguridad
-y un futuro rol junior (SOC / Analista de Seguridad).
+## 📚 Qué encontrarás aquí
+- Writeups de laboratorios de TryHackMe (Pre Security)
+- Análisis básico de seguridad ofensiva y defensiva
+- Playbooks defensivos para respuesta a incidentes
+- Documentación orientada a comprensión y aprendizaje real
 
-## Plataforma
-- TryHackMe
+## 🛠️ Herramientas y conceptos
+- Linux
+- Fundamentos de redes
+- Seguridad ofensiva y defensiva
+- Respuesta a incidentes (nivel introductorio)
+
+## 📌 Nota
+Todo el contenido corresponde a entornos controlados y educativos.
