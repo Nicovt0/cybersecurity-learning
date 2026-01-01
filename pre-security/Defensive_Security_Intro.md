@@ -17,5 +17,10 @@ proveniente de una IP atacante.
 Entendí que la seguridad defensiva se enfoca en prevenir, detectar y responder
 a incidentes para proteger los sistemas y la información.
 
+Este ejercicio me ayudó a entender que en la práctica muchas veces el objetivo
+no es investigar quién atacó, sino detener el impacto lo antes posible.
+
+
 ## Dudas
-- Cómo se aplican estas medidas de forma automática en empresas reales.
+- Qué herramientas usan los equipos SOC para automatizar el bloqueo de IPs y
+  la respuesta a este tipo de incidentes.

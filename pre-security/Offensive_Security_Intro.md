@@ -4,7 +4,7 @@
 Entender qué es la seguridad ofensiva y cuál es su propósito dentro de la ciberseguridad.
 
 ## Contexto
-La sala introduce el concepto de atacar sistemas de forma controlada y ética,
+La sala explica el concepto de atacar sistemas de forma controlada y ética,
 utilizando un entorno simulado de un banco vulnerable.
 
 ## Acciones realizadas
@@ -15,6 +15,9 @@ utilizando un entorno simulado de un banco vulnerable.
 ## Aprendizaje
 Aprendí que la seguridad ofensiva no busca causar daño, sino identificar
 vulnerabilidades para que puedan ser corregidas antes de que sean explotadas.
+
+Al inicio me costó entender el enfoque ofensivo, pero el ejercicio ayudó a
+aclarar su propósito dentro de la ciberseguridad.
 
 ## Dudas
 - Cómo se documentan estos hallazgos en un entorno profesional.
