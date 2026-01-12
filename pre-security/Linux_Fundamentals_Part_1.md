@@ -73,7 +73,7 @@ El comando `grep` permite buscar texto específico dentro de archivos, siendo es
 grep "texto_a_buscar" nombre_del_archivo
 ```
 
-##Operadores de la shell
+## Operadores de la shell
 
 El operador & permite ejecutar un comando en segundo plano sin bloquear la terminal.
 
@@ -95,7 +95,7 @@ El operador >> redirige la salida de un comando hacia un archivo, agregando su c
 echo "Texto de ejemplo" >> nombre_del_archivo
 ```
 
-#Aplicación en ciberseguridad
+# Aplicación en ciberseguridad
 
 Los comandos y operadores aprendidos en esta sala son ampliamente utilizados en tareas de ciberseguridad, tales como:
 
